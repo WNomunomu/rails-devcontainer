@@ -1,0 +1,18 @@
+current directory: /workspaces/rails_devcontainer/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/rails_devcontainer/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240602-1361-e1tx99 sitelibdir\=./.gem.20240602-1361-e1tx99 clean
+
+current directory: /workspaces/rails_devcontainer/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240602-1361-e1tx99 sitelibdir\=./.gem.20240602-1361-e1tx99
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /workspaces/rails_devcontainer/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240602-1361-e1tx99 sitelibdir\=./.gem.20240602-1361-e1tx99 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240602-1361-e1tx99/racc
+
+current directory: /workspaces/rails_devcontainer/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240602-1361-e1tx99 sitelibdir\=./.gem.20240602-1361-e1tx99 clean
